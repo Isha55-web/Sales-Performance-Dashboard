@@ -1,0 +1,16 @@
+Order_Date,Salesperson,Region,Product,Category,Quantity,Unit_Price,Unit_Cost,Target,total_sales,total_profit
+1/5/2025,Aman,North,Laptop,Electronics,2,45000,38000,100000,90000,14000
+1/10/2025,Riya,South,Mobile,Electronics,5,15000,11000,90000,75000,20000
+1/15/2025,Neha,East,Chair,Furniture,8,2500,1800,50000,20000,5600
+2/3/2025,Rahul,West,Table,Furniture,4,5000,3500,60000,20000,6000
+2/12/2025,Aman,North,Mobile,Electronics,3,15000,11000,100000,45000,12000
+2/20/2025,Riya,South,Laptop,Electronics,1,45000,38000,90000,45000,7000
+3/2/2025,Neha,East,Table,Furniture,5,5000,3500,50000,25000,7500
+3/10/2025,Rahul,West,Chair,Furniture,10,2500,1800,60000,25000,7000
+3/18/2025,Aman,North,Laptop,Electronics,1,45000,38000,100000,45000,7000
+4/5/2025,Riya,South,Chair,Furniture,6,2500,1800,90000,15000,4200
+4/12/2025,Neha,East,Mobile,Electronics,4,15000,11000,50000,60000,16000
+4/20/2025,Rahul,West,Laptop,Electronics,2,45000,38000,60000,90000,14000
+5/3/2025,Aman,North,Table,Furniture,6,5000,3500,100000,30000,9000
+5/11/2025,Riya,South,Mobile,Electronics,4,15000,11000,90000,60000,16000
+5/19/2025,Neha,East,Chair,Furniture,7,2500,1800,50000,17500,4900
